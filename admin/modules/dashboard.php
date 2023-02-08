@@ -1,0 +1,1 @@
+<div class="dashboard">Chào mừng đến với THINH PHAT HOTEL</div>

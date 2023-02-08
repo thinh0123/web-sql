@@ -1,0 +1,55 @@
+ul.admin_list {
+    text-align: right;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+ul.admin_list li {
+    text-align: right;
+    float: left;
+    margin: 5px;
+}
+.clear{
+    text-align: right;
+    clear: both;
+}
+h3.title_admin {
+    text-align: right;
+    text-align: center;
+    font-size: 40px;
+    color: #0099cc;
+}
+a {
+    font-size: 20px;
+    text-align: right;
+    color: #000;
+}
+ul.admin_list li:hover {
+    text-align: right;
+    background: #3be2c136;
+}
+
+.wrapper{
+    text-align: right;
+    border: 1px solid #0099cc;
+    height: auto;
+    width: 100%;
+    margin: 0 auto;
+    background: #0099cc17;
+}
+.dashboard {
+    text-align: center;
+    color: #0099CC;
+    font-size: 20px;
+}
+@media (max-width: 767px) {
+    .wrapper {
+        background-color: violet;
+    }
+    
+    
+}
+
+
+
+
